@@ -9,7 +9,7 @@ El objetivo principal es extraer conocimiento a partir de los datos de ventas de
 ## Acerca de los Datos
 Los datos utilizados corresponden a un modelo en esquema estrella compuesto por una tabla de hechos y dos tablas de dimensiones, con un total de **60,398 líneas de venta**, **18,484 clientes** y **295 productos**, cubriendo el periodo comprendido entre **diciembre de 2010 y enero de 2014**.
 
-### `fact_sales` (Tabla de hechos)
+### `fact_sales`
 Contiene 9 columnas y 60,398 registros, cada uno correspondiente a una línea de un pedido de venta:
 
 | Columna        | Descripción                                                | Tipo de dato   |
@@ -24,7 +24,7 @@ Contiene 9 columnas y 60,398 registros, cada uno correspondiente a una línea de
 | quantity       | Cantidad de unidades vendidas                                  | INT            |
 | price          | Precio unitario del producto en el momento de la venta         | DECIMAL(10,2)  |
 
-### `dim_customers` (Dimensión Clientes)
+### `dim_customers`
 Contiene 10 columnas y 18,484 registros:
 
 | Columna         | Descripción                                              | Tipo de dato   |
@@ -40,7 +40,7 @@ Contiene 10 columnas y 18,484 registros:
 | birthdate       | Fecha de nacimiento del cliente                                | DATE           |
 | create_date     | Fecha de alta del cliente en el sistema                        | DATE           |
 
-### `dim_products` (Dimensión Productos)
+### `dim_products`
 Contiene 11 columnas y 295 registros:
 
 | Columna       | Descripción                                                    | Tipo de dato   |
