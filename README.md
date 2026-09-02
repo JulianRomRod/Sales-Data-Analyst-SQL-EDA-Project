@@ -9,7 +9,7 @@ Este proyecto analiza los datos de ventas de **PedalPro Cycling**, una empresa f
 El objetivo principal es extraer conocimiento a partir de los datos de ventas de PedalPro Cycles, explorando los distintos factores (producto, cliente, tiempo y geografía) que influyen en las ventas de la compañía.
 
 ## Acerca de los Datos
-Los datos utilizados corresponden a un modelo en esquema estrella compuesto por una tabla de hechos y dos tablas de dimensiones, con un total de **60,398 líneas de venta**, **18,484 clientes** y **295 productos**, cubriendo el periodo comprendido entre **diciembre de 2010 y enero de 2014**.
+Los datos utilizados corresponden a un modelo en esquema estrella compuesto por una tabla de hechos y dos tablas de dimensiones, con un total de **60.398 líneas de venta**, **18.484 clientes** y **295 productos**, cubriendo el periodo comprendido entre **diciembre de 2010 y enero de 2014**.
 
 ### `fact_sales`
 Contiene 9 columnas y 60.398 registros, cada uno correspondiente a una línea de un pedido de venta:
