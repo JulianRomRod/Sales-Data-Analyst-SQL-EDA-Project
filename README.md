@@ -1,7 +1,9 @@
+<img width="300" height="150" alt="Gemini_Generated_Image_l66ipql66ipql66i" src="https://github.com/user-attachments/assets/72b388e2-2b6f-4852-bea0-15357abb8b1e" />
+
 # Sales-Data-Analyst-SQL-EDA-Project
 
 ## Acerca del proyecto
-Este proyecto analiza los datos de ventas de **PedalPro Cycles**, una empresa ficticia dedicada a la venta de bicicletas, componentes, ropa y accesorios de ciclismo a nivel internacional. El objetivo es identificar los productos y categorías con mejor desempeño, analizar la evolución de las ventas a lo largo del tiempo y comprender el comportamiento de los distintos segmentos de clientes. El propósito final es aportar información que permita optimizar las estrategias comerciales de la empresa.
+Este proyecto analiza los datos de ventas de **PedalPro Cycling**, una empresa ficticia dedicada a la venta de bicicletas, componentes, ropa y accesorios de ciclismo a nivel internacional. El objetivo es identificar los productos y categorías con mejor desempeño, analizar la evolución de las ventas a lo largo del tiempo y comprender el comportamiento de los distintos segmentos de clientes. El propósito final es aportar información que permita optimizar las estrategias comerciales de la empresa.
 
 ## Objetivos del Proyecto
 El objetivo principal es extraer conocimiento a partir de los datos de ventas de PedalPro Cycles, explorando los distintos factores (producto, cliente, tiempo y geografía) que influyen en las ventas de la compañía.
